@@ -1,5 +1,5 @@
 # Ngcc — Angular Carbon Components
-**Maintained by:** [Assistanz](https://assistanz.com/)
+**Maintained by:** [Assistanz Networks Pvt Ltd](https://assistanz.com/)
 
 ---
 
